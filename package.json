@@ -18,6 +18,8 @@
     "react-native-gesture-handler": "~1.10.2",
     "react-native-reanimated": "~2.1.0",
     "react-native-screens": "~3.0.0",
+    "react-native-swift": "^1.2.3",
+    "react-native-track-player": "^1.2.7",
     "react-native-unimodules": "~0.13.3",
     "react-native-web": "~0.13.12",
     "react-native-webrtc": "^1.89.1"
@@ -30,5 +32,6 @@
   },
   "private": true,
   "name": "webrtc-demo",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "isSwift": true
 }
